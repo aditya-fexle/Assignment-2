@@ -7,9 +7,9 @@ System.debug('Handling account');
 }
 
 
-public void updateAccount(Account acc) {
+public void addContact(Contact con) {
 
-System.debug('Updating account: ' + acc.Name);
+System.debug('Adding contact: ' + con.LastName);
 
 }
 
